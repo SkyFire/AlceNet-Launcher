@@ -1,0 +1,11 @@
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Debug\AlceNet-Launcher.exe
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Debug\AlceNet-Launcher.pdb
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Debug\AlceNet-Launcher.xml
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet_Launcher.Main.resources
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet_Launcher.Resources.resources
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet-Launcher.exe
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet-Launcher.xml
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet-Launcher.pdb
