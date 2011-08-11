@@ -1,11 +1,20 @@
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Debug\AlceNet-Launcher.exe
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Debug\AlceNet-Launcher.pdb
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Debug\AlceNet-Launcher.xml
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet_Launcher.Main.resources
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet_Launcher.Resources.resources
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AlceNet-Launcher.exe
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AlceNet-Launcher.pdb
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AlceNet-Launcher.xml
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\AlceNet-Launcher.exe
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\AlceNet-Launcher.xml
+C:\Documents and Settings\DAVID\Mis documentos\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\AlceNet-Launcher.pdb
+C:\Users\DASPIRE\Desktop\WindowsApplication2\obj\x86\Debug\AlceNet-Launcher.exe
+C:\Users\DASPIRE\Desktop\WindowsApplication2\obj\x86\Debug\AlceNet-Launcher.xml
+C:\Users\DASPIRE\Desktop\WindowsApplication2\obj\x86\Debug\AlceNet-Launcher.pdb
+C:\Users\DASPIRE\Desktop\WindowsApplication\obj\x86\Debug\AlceNet-Launcher.exe
+C:\Users\DASPIRE\Desktop\WindowsApplication\obj\x86\Debug\AlceNet-Launcher.xml
+C:\Users\DASPIRE\Desktop\WindowsApplication\obj\x86\Debug\AlceNet-Launcher.pdb
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet-Launcher.exe
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet-Launcher.xml
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Debug\AlceNet-Launcher.pdb

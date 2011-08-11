@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("AlceNet-Launcher")> 
+<Assembly: AssemblyTitle("WindowsApplication1")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Microsoft")> 
-<Assembly: AssemblyProduct("AlceNet-Launcher")> 
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2011")> 
+<Assembly: AssemblyCompany("ST")> 
+<Assembly: AssemblyProduct("WindowsApplication1")> 
+<Assembly: AssemblyCopyright("Copyright © ST 2011")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-<Assembly: Guid("d5b9c8b6-dfca-431b-b6cc-9d9e1141ca7f")> 
+<Assembly: Guid("8c85410f-8da8-442a-be7f-67cf1dff00a8")> 
 
 ' La información de versión de un ensamblado consta de los cuatro valores siguientes:
 '
