@@ -53,6 +53,18 @@ Namespace My
                 Return defaultInstance
             End Get
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("null")>  _
+        Public Property set_wowdir() As String
+            Get
+                Return CType(Me("set_wowdir"),String)
+            End Get
+            Set
+                Me("set_wowdir") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

@@ -4,15 +4,31 @@
     '   Cargamos la funcion Load, para comprobar la conexion
     '
 
+    '   Declaramos los Objetos
+    Dim obj_Connection As New alc_Connection
+    Dim obj_INI As New alc_INI
+
+    '   Declaramos las variables
+    Dim tst_Internet As Boolean
+    Dim tst_WowDir As Boolean
+
     Private Sub Main_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
-        '   Declaramos el Objeto
-        Dim obj_Connection As New alc_Connection
         '   Comprobamos la conexion a internet
         If obj_Connection.ConexionInternet = False Then
             '   En caso de no tener conexion cerramos el launcher.
             MsgBox("ERROR: No dispones de conexion a internet.")
+            tst_Internet = False
             Me.Close()
+        End If
+
+        '   Comprobamos que tenga ruta del juego ya añadida.
+        obj_INI.Parametro = "wowdir"
+        If obj_INI.Get_Opciones = False Then
+            '   En caso de no tener la carpeta del juego seleccionada desabilitamos el boton de jugar.
+            img_jugar_on.Enabled = False
+            img_jugar_off.Enabled = False
+            tst_WowDir = False
         End If
 
     End Sub

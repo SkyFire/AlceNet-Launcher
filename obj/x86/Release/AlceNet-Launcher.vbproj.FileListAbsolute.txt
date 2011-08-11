@@ -31,3 +31,4 @@ C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\Ge
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.exe
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.pdb
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.xml
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.exe.config
