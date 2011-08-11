@@ -34,6 +34,7 @@ Partial Class Main
         Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
         Me.AaaaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.lba_TituloVentana = New System.Windows.Forms.Label()
         CType(Me.img_cerrar_off, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.img_cerrar_on, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.img_minimizar_on, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -128,12 +129,25 @@ Partial Class Main
         'Timer1
         '
         '
-        'Form1
+        'lba_TituloVentana
+        '
+        Me.lba_TituloVentana.AutoSize = True
+        Me.lba_TituloVentana.BackColor = System.Drawing.Color.Transparent
+        Me.lba_TituloVentana.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lba_TituloVentana.ForeColor = System.Drawing.Color.White
+        Me.lba_TituloVentana.Location = New System.Drawing.Point(253, 7)
+        Me.lba_TituloVentana.Name = "lba_TituloVentana"
+        Me.lba_TituloVentana.Size = New System.Drawing.Size(117, 15)
+        Me.lba_TituloVentana.TabIndex = 6
+        Me.lba_TituloVentana.Text = "World of Warcraft"
+        '
+        'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.ClientSize = New System.Drawing.Size(802, 653)
+        Me.Controls.Add(Me.lba_TituloVentana)
         Me.Controls.Add(Me.img_jugar_off)
         Me.Controls.Add(Me.img_jugar_on)
         Me.Controls.Add(Me.img_minimizar_off)
@@ -141,7 +155,7 @@ Partial Class Main
         Me.Controls.Add(Me.img_cerrar_on)
         Me.Controls.Add(Me.img_cerrar_off)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Name = "Form1"
+        Me.Name = "Main"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Form1"
         CType(Me.img_cerrar_off, System.ComponentModel.ISupportInitialize).EndInit()
@@ -165,5 +179,6 @@ Partial Class Main
     Friend WithEvents ContextMenuStrip1 As System.Windows.Forms.ContextMenuStrip
     Friend WithEvents AaaaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
+    Friend WithEvents lba_TituloVentana As System.Windows.Forms.Label
 
 End Class
