@@ -35,6 +35,7 @@ Partial Class Main
         Me.AaaaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.lba_TituloVentana = New System.Windows.Forms.Label()
+        Me.lbl_MenuOpciones = New System.Windows.Forms.Label()
         CType(Me.img_cerrar_off, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.img_cerrar_on, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.img_minimizar_on, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -141,12 +142,25 @@ Partial Class Main
         Me.lba_TituloVentana.TabIndex = 6
         Me.lba_TituloVentana.Text = "World of Warcraft"
         '
+        'lbl_MenuOpciones
+        '
+        Me.lbl_MenuOpciones.AutoSize = True
+        Me.lbl_MenuOpciones.BackColor = System.Drawing.Color.Transparent
+        Me.lbl_MenuOpciones.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl_MenuOpciones.ForeColor = System.Drawing.Color.White
+        Me.lbl_MenuOpciones.Location = New System.Drawing.Point(378, 33)
+        Me.lbl_MenuOpciones.Name = "lbl_MenuOpciones"
+        Me.lbl_MenuOpciones.Size = New System.Drawing.Size(100, 15)
+        Me.lbl_MenuOpciones.TabIndex = 7
+        Me.lbl_MenuOpciones.Text = "World of Warcraft"
+        '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.ClientSize = New System.Drawing.Size(802, 653)
+        Me.Controls.Add(Me.lbl_MenuOpciones)
         Me.Controls.Add(Me.lba_TituloVentana)
         Me.Controls.Add(Me.img_jugar_off)
         Me.Controls.Add(Me.img_jugar_on)
@@ -180,5 +194,6 @@ Partial Class Main
     Friend WithEvents AaaaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents lba_TituloVentana As System.Windows.Forms.Label
+    Friend WithEvents lbl_MenuOpciones As System.Windows.Forms.Label
 
 End Class
