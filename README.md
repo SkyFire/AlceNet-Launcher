@@ -1,6 +1,6 @@
-<div class="wikistyle"><h1>Facebook PHP SDK (v.3.1.1)</h1>
-
-<p>The <a href="http://developers.facebook.com/">Facebook Platform</a> is
+<div class="wikistyle"><h1>AlceNet-Launcher vb.Net SDK (v.3.1.1)</h1>
+<!--
+<p>La <a href="http://www.alcenet.info/">plataforma del launcher</a> is
 a set of APIs that make your application more social. Read more about
 <a href="http://developers.facebook.com/docs/guides/web">integrating Facebook with your web site</a>
 on the Facebook developer site.</p>
@@ -65,4 +65,5 @@ test case.</p>
 <p>The tests can be executed by using this command from the base directory:</p>
 
 <pre><code>phpunit --stderr --bootstrap tests/bootstrap.php tests/tests.php
-</code></pre></div>
+</code></pre>
+--></div>
