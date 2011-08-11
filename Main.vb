@@ -1,6 +1,21 @@
 ﻿Public Class Main
 
+    '
+    '   Cargamos la funcion Load, para comprobar la conexion
+    '
 
+    Private Sub Main_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+        '   Declaramos el Objeto
+        Dim obj_Connection As New alc_Connection
+        '   Comprobamos la conexion a internet
+        If obj_Connection.ConexionInternet = False Then
+            '   En caso de no tener conexion cerramos el launcher.
+            MsgBox("ERROR: No dispones de conexion a internet.")
+            Me.Close()
+        End If
+
+    End Sub
 
 
 
@@ -123,4 +138,6 @@
         nfi.BalloonTipText = ""
         Timer1.Stop()
     End Sub
+
+    
 End Class

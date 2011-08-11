@@ -23,3 +23,11 @@ C:\Users\DASPIRE\Desktop\WindowsApplication\obj\x86\Release\GenerateResource.wri
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\AlceNet-Launcher.exe
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\AlceNet-Launcher.xml
 C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\AlceNet-Launcher.pdb
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\WindowsApplication1.Main.resources
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.exe
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.pdb
+C:\Users\DASPIRE\Documents\ALCENET DEVELOPER\AlceNet-Launcher\bin\Release\AlceNet-Launcher.xml
